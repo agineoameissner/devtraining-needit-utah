@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_qualifier">
+    <sys_embedded_help_qualifier action="DELETE">
+        <fragment/>
+        <path>x_58872_needit_needit</path>
+        <qualifier>new-needit-record</qualifier>
+        <query_params>sys_id=-1</query_params>
+        <sys_class_name>sys_embedded_help_qualifier</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 08:00:28</sys_created_on>
+        <sys_id>a301fb31c355d21046eb382d050131bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_qualifier_a301fb31c355d21046eb382d050131bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 08:00:28</sys_updated_on>
+    </sys_embedded_help_qualifier>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c433907e1b1dca14c8432f8dee4bcbe0</instance_id>
+        <instance_name>dev254864</instance_name>
+        <name>sys_embedded_help_qualifier_a301fb31c355d21046eb382d050131bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_qualifier"><sys_embedded_help_qualifier action="INSERT_OR_UPDATE"><fragment/><path>x_58872_needit_needit</path><qualifier>new-needit-record</qualifier><query_params>sys_id=-1</query_params><sys_class_name>sys_embedded_help_qualifier</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-18 08:00:28</sys_created_on><sys_id>a301fb31c355d21046eb382d050131bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_embedded_help_qualifier_a301fb31c355d21046eb382d050131bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-18 08:00:28</sys_updated_on></sys_embedded_help_qualifier></record_update>]]></payload>
+        <payload_hash>1653119689</payload_hash>
+        <record_name>x_58872_needit_needit</record_name>
+        <reverted_from/>
+        <source>045bbbadc311921046eb382d05013109</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 08:00:28</sys_created_on>
+        <sys_id>9c31fb31c355d21046eb382d050131c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1929ea46c470000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 08:00:28</sys_updated_on>
+        <type>Embedded Help Qualifier</type>
+        <update_guid>5031fb315955d2102d02e2fc486c11c8</update_guid>
+        <update_guid_history>5031fb315955d2102d02e2fc486c11c8:1653119689</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 08:17:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_help_qualifier">sys_embedded_help_qualifier</sys_db_object>
+        <sys_id>1f9d246e7ac74b94a695feb5b8945929</sys_id>
+        <sys_metadata>a301fb31c355d21046eb382d050131bf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_embedded_help_qualifier_a301fb31c355d21046eb382d050131bf</sys_update_name>
+        <sys_update_version display_value="sys_embedded_help_qualifier_a301fb31c355d21046eb382d050131bf">9c31fb31c355d21046eb382d050131c8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 08:17:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
